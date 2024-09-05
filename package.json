@@ -1,0 +1,11 @@
+{
+  "name": "my-static-site",
+  "version": "1.0.0",
+  "description": "A static site deployed on Vercel",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
