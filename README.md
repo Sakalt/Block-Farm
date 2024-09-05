@@ -7,6 +7,7 @@
 <a target="_blank" href="https://gitter.im/Block-Farm/Support" title="Gitter chat"><img src="https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg"></a>
 </p> 
 https://vercel.com
+https://block-farm-kohl.vercel.app
 # Block Farm   
 
 A farming game built upon Ethereum platform.
